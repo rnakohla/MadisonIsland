@@ -1,0 +1,2 @@
+file:src/main/resources/Features/F01_Register.feature:3
+file:src/main/resources/Features/F02_ShoppingCart.feature:10
